@@ -78,7 +78,7 @@ Here's how my repositories are organized:
 I’m always looking for exciting new projects to work on. If you’re interested in collaborating or have an opportunity in mind, feel free to reach out:
 
 - 📧 **Email**: [email](mburualex04@gmail.com)
-- 💼 **LinkedIn**: [Your LinkedIn profile link](https://www.linkedin.com/in/alex-kigotho/)
+- 💼 **LinkedIn**: [LinkedIn profile link](https://www.linkedin.com/in/alex-kigotho/)
 
 
 
